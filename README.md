@@ -1,4 +1,4 @@
-# Lyrics Visualizer
+# Harmonia
 
 A sleek lyrics visualizer built using **Tauri**, **React**, and **TypeScript**, designed for Linux.
 
